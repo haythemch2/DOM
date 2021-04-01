@@ -1,0 +1,14 @@
+
+
+.cart-item{
+    display: flex;
+    width: 100%;
+    padding: 1rem 0;
+    
+}
+.cart-item a,h1,h2,button,input{
+padding: 0 1rem;
+}
+.cart-item input{
+    width: 50px;
+}
